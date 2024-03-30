@@ -1,0 +1,16 @@
+[
+    {
+        "email": "123@gmail.com",
+        "pass": "12345",
+        "username": "dimas",
+        "role": "admin",
+        "rememberPass": "1to5"
+    },
+    {
+        "email": "321@gmail.com",
+        "pass": "54321",
+        "username": "rock",
+        "role": "admin",
+        "rememberPass": "5to1"
+    }
+]
